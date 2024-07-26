@@ -1,0 +1,7 @@
+djangorestframework
+django
+markdown
+django-filter
+django-environ
+psycopg2-binary
+psycopg2
